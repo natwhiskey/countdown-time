@@ -22,6 +22,9 @@
     }
 
     function run() {
+        setInterval(() => {
+            countDown();
+        }, second);
     }
 
     run();
