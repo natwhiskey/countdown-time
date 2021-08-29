@@ -1,4 +1,6 @@
 (() => {
+    function countDown() {
+    }
 
     function run() {
     }
